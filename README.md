@@ -1,5 +1,14 @@
 # LeetCode solutions in Java
 
+<div>
+  <a href="https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub">
+
+    <img src="http://jb.gg/badges/official.svg" alt="official JetBrains project"/>
+  </a>
+</div>
+
+Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
+
 ## Linear List
 
 ### Array
