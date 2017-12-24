@@ -7,14 +7,14 @@
  Remove Duplicates from Sorted Array
 
 - ~~Remove Duplicates from Sorted Array II~~
-- Longest Consecutive Sequence
+- ~~Longest Consecutive Sequence~~
 - Two Sum
 - 3Sum
 - 3Sum Closest
 - 4Sum
-- Remove Element
-- Move Zeroes
-- Next Permutation
+- ~~Remove Element~~
+- ~~Move Zeroes~~
+- ~~Next Permutation~~
 - Permutation Sequence
 - Valid Sudoku
 - Trapping Rain Water
