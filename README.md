@@ -3,7 +3,8 @@
 <div>
   <a href="https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub">
 
-    <img src="http://jb.gg/badges/official.svg" alt="official JetBrains project"/>
+<img src="http://jb.gg/badges/official.svg" alt="official JetBrains project"/>
+
   </a>
 </div>
 
