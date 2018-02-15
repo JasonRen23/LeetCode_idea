@@ -15,14 +15,12 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 ### Array
 
 - ~~Remove Duplicates from Sorted Array~~
-
-
 - ~~Remove Duplicates from Sorted Array II~~
 - ~~Longest Consecutive Sequence~~
-- Two Sum
-- 3Sum
-- 3Sum Closest
-- 4Sum
+- ~~Two Sum~~
+- ~~3Sum~~
+- ~~3Sum Closest~~
+- ~~4Sum~~
 - ~~Remove Element~~
 - ~~Move Zeroes~~
 - ~~Next Permutation~~
