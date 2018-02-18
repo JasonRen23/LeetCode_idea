@@ -24,23 +24,23 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - ~~Remove Element~~
 - ~~Move Zeroes~~
 - ~~Next Permutation~~
-- Permutation Sequence
-- Valid Sudoku
-- Trapping Rain Water
-- Rotate Image
-- Plus One
-- Climbing Stairs
-- Set Matrix Zeroes
-- Gas Station
-- Candy
-- Majority Element
-- Rotate Array
-- Contains Duplicate
-- Contains Duplicate II
-- Contains Duplicate III
-- Product of Array Except Self
-- Game of Life
-- Increasing Triplet Subsequence
+- ~~Permutation Sequence~~
+- ~~Valid Sudoku~~
+- ~~Trapping Rain Water~~
+- ~~Rotate Image~~
+- ~~Plus One~~
+- ~~Climbing Stairs~~
+- ~~Set Matrix Zeroes~~
+- ~~Gas Station~~
+- ~~Candy~~
+- ~~Majority Element~~
+- ~~Rotate Array~~
+- ~~Contains Duplicate~~
+- ~~Contains Duplicate II~~
+- ~~Contains Duplicate III~~
+- ~~Product of Array Except Self~~
+- ~~Game of Life~~
+- ~~Increasing Triplet Subsequence~~
 
 ### Linked List
 
