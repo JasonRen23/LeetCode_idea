@@ -44,8 +44,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Linked List
 
-- 
-  Reverse Linked List
+- Reverse Linked List
 - Odd Even Linked List
 - Add Two Numbers
 - Reverse Linked List II
