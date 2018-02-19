@@ -45,13 +45,13 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Linked List
 
-- Reverse Linked List
-- Odd Even Linked List
-- Add Two Numbers
-- Reverse Linked List II
-- Partition List
-- Remove Duplicates from Sorted List
-- Remove Duplicates from Sorted List II
+- ~~Reverse Linked List~~
+- ~~Odd Even Linked List~~
+- ~~Add Two Numbers~~
+- ~~Reverse Linked List II~~
+- ~~Partition List~~
+- ~~Remove Duplicates from Sorted List~~
+- ~~Remove Duplicates from Sorted List II~~
 - Rotate List
 - Remove Nth Node From End of List
 - Swap Nodes in Pairs
