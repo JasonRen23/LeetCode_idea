@@ -52,20 +52,20 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - ~~Partition List~~
 - ~~Remove Duplicates from Sorted List~~
 - ~~Remove Duplicates from Sorted List II~~
-- Rotate List
-- Remove Nth Node From End of List
-- Swap Nodes in Pairs
-- Reverse Nodes in k-Group
-- Copy List with Random Pointer
-- Linked List Cycle
-- Linked List Cycle II
-- Reorder List
-- LRU Cache
-- Palindrome Linked List
+- ~~Rotate List~~
+- ~~Remove Nth Node From End of List~~
+- ~~Swap Nodes in Pairs~~
+- ~~Reverse Nodes in k-Group~~
+- ~~Copy List with Random Pointer~~
+- ~~Linked List Cycle~~
+- ~~Linked List Cycle II~~
+- ~~Reorder List~~
+- ~~LRU Cache~~
+- ~~Palindrome Linked List~~
 
 ### String
 
-- Valid Palindrome
+- ~~Valid Palindrome~~
 - Implement strStr()
 - String to Integer (atoi)
 - Add Binary
