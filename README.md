@@ -66,20 +66,20 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 ### String
 
 - ~~Valid Palindrome~~
-- Implement strStr()
-- String to Integer (atoi)
-- Add Binary
-- Longest Palindromic Substring
-- Regular Expression Matching
-- Wildcard Matching
-- Longest Common Prefix
-- Valid Number
-- Integer to Roman
-- Roman to Integer
-- Count and Say
-- Anagrams
-- Valid Anagram
-- Simplify Path
+- ~~Implement strStr()~~
+- ~~String to Integer (atoi)~~
+- ~~Add Binary~~
+- ~~Longest Palindromic Substring~~
+- ~~Regular Expression Matching~~
+- ~~Wildcard Matching~~
+- ~~Longest Common Prefix~~
+- ~~Valid Number~~
+- ~~Integer to Roman~~
+- ~~Roman to Integer~~
+- ~~Count and Say~~
+- ~~Anagrams~~
+- ~~Valid Anagram~~
+- ~~Simplify Path~~
 - Length of Last Word
 - Isomorphic Strings
 - Word Pattern
