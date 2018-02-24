@@ -80,24 +80,24 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - ~~Anagrams~~
 - ~~Valid Anagram~~
 - ~~Simplify Path~~
-- Length of Last Word
-- Isomorphic Strings
-- Word Pattern
+- ~~Length of Last Word~~
+- ~~Isomorphic Strings~~
+- ~~Word Pattern~~
 
 ## Stack && Queue
 
 ### Stack
 
-- Min Stack
-- Valid Parentheses
-- Longest Valid Parentheses
-- Largest Rectangle in Histogram
-- Evaluate Reverse Polish Notation
-- Implement Stack using Queues
+- ~~Min Stack~~
+- ~~Valid Parentheses~~
+- ~~Longest Valid Parentheses~~
+- ~~Largest Rectangle in Histogram~~
+- ~~Evaluate Reverse Polish Notation~~
+- ~~Implement Stack using Queues~~
 
 ### Queue
 
--  Implement Queue using Stacks
+-  ~~Implement Queue using Stacks~~
 
 ## Binary Tree 
 
