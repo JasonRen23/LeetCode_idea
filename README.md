@@ -103,21 +103,21 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Traverse
 
-- Binary Tree Preorder Traversal
-- Binary Tree Inorder Traversal
-- Binary Tree Postorder Traversal
-- Binary Tree Level Order Traversal
-- Binary Tree Level Order Traversal II
-- Binary Tree Right Side View
-- Invert Binary Tree
-- Binary Search Tree Iterator
-- Binary Tree Zigzag Level Order Traversal
-- Recover Binary Search Tree
-- Same Tree
-- Symmetric Tree
-- Balanced Binary Tree
-- Flatten Binary Tree to Linked List
-- Populating Next Right Pointers in Each Node II
+- ~~Binary Tree Preorder Traversal~~
+- ~~Binary Tree Inorder Traversal~~
+- ~~Binary Tree Postorder Traversal~~
+- ~~Binary Tree Level Order Traversal~~
+- ~~Binary Tree Level Order Traversal II~~
+- ~~Binary Tree Right Side View~~
+- ~~Invert Binary Tree~~
+- ~~Binary Search Tree Iterator~~
+- ~~Binary Tree Zigzag Level Order Traversal~~
+- ~~Recover Binary Search Tree~~
+- ~~Same Tree~~
+- ~~Symmetric Tree~~
+- ~~Balanced Binary Tree~~
+- ~~Flatten Binary Tree to Linked List~~
+- ~~Populating Next Right Pointers in Each Node II~~
 
 ### Construct 
 
@@ -215,7 +215,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 - Additive Number
 - Palindrome Partitioning
-- Unique Paths
+- ~~Unique Paths~~
 - Unique Paths II
 - N-Queens
 - N-Queens II
@@ -255,7 +255,9 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - Best Time to Buy and Sell Stock with Cooldown
 - Interleaving String
 - Scramble String
-- Minimum Path Sum
+- ~~Minimum Path Sum~~
+- ~~Coin Change~~
+- ~~Shopping Offers~~
 - Edit Distance
 - Decode Ways
 - Distinct Subsequences
