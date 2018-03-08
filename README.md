@@ -121,18 +121,18 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Construct 
 
-- Construct Binary Tree from Preorder and Inorder Traversal
-- Construct Binary Tree from Inorder and Postorder Traversal
+- ~~Construct Binary Tree from Preorder and Inorder Traversal~~
+- ~~Construct Binary Tree from Inorder and Postorder Traversal~~
 
 ### Binary Search Tree
 
-- Unique Binary Search Trees
-- Unique Binary Search Trees II
-- Validate Binary Search Tree
-- Convert Sorted Array to Binary Search Tree
-- Convert Sorted List to Binary Search Tree
-- LCA of BST
-- Kth Smallest Element in a BST
+- ~~Unique Binary Search Trees~~
+- ~~Unique Binary Search Trees II~~
+- ~~Validate Binary Search Tree~~
+- ~~Convert Sorted Array to Binary Search Tree~~
+- ~~Convert Sorted List to Binary Search Tree~~
+- ~~LCA of BST~~
+- ~~Kth Smallest Element in a BST~~
 
 ### Recursion
 
