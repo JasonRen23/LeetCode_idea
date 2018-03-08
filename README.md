@@ -143,7 +143,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - Binary Tree Maximum Path Sum
 - Populating Next Right Pointers in Each Node
 - Sum Root to Leaf Numbers
-- LCA of Binary Tree
+- ~~LCA of Binary Tree~~
 
 ### Segment Tree
 
