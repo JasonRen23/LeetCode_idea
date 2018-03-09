@@ -136,10 +136,10 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Recursion
 
-- Minimum Depth of Binary Tree
-- Maximum Depth of Binary Tree
-- Path Sum
-- Path Sum II
+- ~~Minimum Depth of Binary Tree~~
+- ~~Maximum Depth of Binary Tree~~
+- ~~Path Sum~~
+- ~~Path Sum II~~
 - Binary Tree Maximum Path Sum
 - Populating Next Right Pointers in Each Node
 - Sum Root to Leaf Numbers
@@ -244,7 +244,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ## Dynamic Programming
 
-- Triangle
+- ~~Triangle~~
 - Maximum Subarray
 - Maximum Product Subarray
 - Longest Increasing Subsequence
