@@ -147,7 +147,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Segment Tree
 
-- Range Sum Query - Mutable
+- ~~Range Sum Query - Mutable~~
 
 ## Sort
 
@@ -245,9 +245,9 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 ## Dynamic Programming
 
 - ~~Triangle~~
-- Maximum Subarray
-- Maximum Product Subarray
-- Longest Increasing Subsequence
+- ~~Maximum Subarray~~
+- ~~Maximum Product Subarray~~
+- ~~Longest Increasing Subsequence~~
 - Palindrome Partitioning II
 - Maximal Rectangle
 - Best Time to Buy and Sell Stock III
@@ -267,8 +267,8 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - House Robber
 - House Robber II
 - House Robber III
-- Range Sum Query - Immutable
-- Range Sum Query 2D - Immutable
+- ~~Range Sum Query - Immutable~~
+- ~~Range Sum Query 2D - Immutable~~
 
 ## Graph
 
