@@ -153,11 +153,11 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 ### Insertion Sort
 
-- Insertion Sort List
+- ~~Insertion Sort List~~
 
 ### Merge Sort
 
-- Merge Two Sorted Arrays
+- ~~Merge Two Sorted Arrays~~
 - Merge Two Sorted Lists
 - Merge k Sorted Lists
 - Sort List
@@ -241,6 +241,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - Longest Substring Without Repeating Characters
 - Container With Most Water
 - Patching Array
+- ~~Couples Holding Hands~~
 
 ## Dynamic Programming
 
@@ -248,8 +249,8 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - ~~Maximum Subarray~~
 - ~~Maximum Product Subarray~~
 - ~~Longest Increasing Subsequence~~
-- Palindrome Partitioning II
-- Maximal Rectangle
+- ~~Palindrome Partitioning II~~
+- ~~Maximal Rectangle~~
 - Best Time to Buy and Sell Stock III
 - Best Time to Buy and Sell Stock IV
 - Best Time to Buy and Sell Stock with Cooldown
