@@ -13,7 +13,7 @@ public class MergeKSortedLists {
         Queue<ListNode> heap = new PriorityQueue<>(lists.length, new Comparator<ListNode>() {
             @Override
             public int compare(ListNode o1, ListNode o2) {
-                return o1.val < o2.val ? -1 : 1;
+                return o1.val - o2.val;
             }
         });
         for(ListNode node : lists){
@@ -33,12 +33,6 @@ public class MergeKSortedLists {
         return dummy.next;
     }
 
-    public static Comparator<ListNode> comp = new Comparator<ListNode>() {
-        @Override
-        public int compare(ListNode o1, ListNode o2) {
-            return o1.val - o2.val;
-        }
-    };
 
 
     public static void main(String[] args) {
