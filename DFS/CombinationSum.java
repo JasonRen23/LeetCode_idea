@@ -1,10 +1,12 @@
 package LeetCode_idea.DFS;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 public class CombinationSum {
     public static List<List<Integer>> combinationSum(int[] nums, int target){
+        Arrays.sort(nums);
         List<List<Integer>> ret = new ArrayList<>();
         if(nums == null) return ret;
         List<Integer> path = new ArrayList<>();
