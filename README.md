@@ -236,8 +236,8 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 
 - Jump Game
 - Jump Game II
-- Best Time to Buy and Sell Stock
-- Best Time to Buy and Sell Stock II
+- ~~Best Time to Buy and Sell Stock~~
+- ~~Best Time to Buy and Sell Stock II~~
 - Longest Substring Without Repeating Characters
 - Container With Most Water
 - Patching Array
@@ -251,7 +251,7 @@ Debug code with [Intellij IDEA](http://www.jetbrains.com/idea).
 - ~~Longest Increasing Subsequence~~
 - ~~Palindrome Partitioning II~~
 - ~~Maximal Rectangle~~
-- Best Time to Buy and Sell Stock III
+- ~~Best Time to Buy and Sell Stock III~~
 - Best Time to Buy and Sell Stock IV
 - Best Time to Buy and Sell Stock with Cooldown
 - Interleaving String
