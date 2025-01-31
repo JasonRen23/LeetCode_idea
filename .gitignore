@@ -1,7 +1,7 @@
 */.project
 *.iml
 */.settings
-.idea/
+.idea
 */.classpath
 **/target
 **/logs
@@ -18,3 +18,4 @@ compressed/
 *.wav
 **/out
 **/upgrade-log/
+
