@@ -1,6 +1,7 @@
 package LeetCode_idea.Middle_2025.bytedance;
 
-import LeetCode_idea.Middle_2025.common.ListNode;
+
+import LeetCode_idea.dataStructure.ListNode;
 
 /**
  * 力扣2 两数相加
