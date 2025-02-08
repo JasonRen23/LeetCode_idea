@@ -1,8 +1,9 @@
-package LeetCode_idea.Middle_2025;
+package LeetCode_idea.Middle_2025.bytedance;
 
 import java.util.Arrays;
 
 /**
+ * 88. 合并两个有序数组
  * @author RenZhiCheng
  * @since 2025/1/31 14:10
  */
